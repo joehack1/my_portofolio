@@ -3,7 +3,7 @@
 Welcome to my portfolio! This repository showcases my software development projects, highlighting skills in Python, Java, web development, and cybersecurity. Explore the code and demos to see my work.
 
 ## About Me
-I'm a software developer with a Bachelor’s in Applied Computer Science from Chuka University, passionate about AI, machine learning, and building user-friendly applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin).
+I'm a software developer with a Bachelor’s in Applied Computer Science from Chuka University, passionate about AI, machine learning, and building user-friendly applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-loter-joel-b62172365/).
 
 ## Projects
 - **Weather Prediction App**: ML-based app for real-time weather forecasts.  
