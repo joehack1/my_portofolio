@@ -12,17 +12,20 @@ I'm a software developer with a Bachelor’s in Applied Computer Science from Ch
 
 - **E-Commerce Web App**: Full-stack app with authentication and payments.  
   Tech: Java, Spring Boot, React  
-  [Demo](https://your-demo-link) | [Code](./ecommerce-app)
+  [Demo](https://joelloter.free.nf/) | [Code](./ecommerce-app)
 
 - **Portfolio Website**: Responsive site showcasing my projects.  
   Tech: HTML, CSS, JavaScript  
-  [Demo](https://your-portfolio-website) | [Code](./portfolio-website)
+  [Demo](https://joelloter.free.nf/) | [Code](./portfolio-website)
 
 ## Setup
 1. Clone: `git clone https://github.com/joehack1/my_portofolio.git`
 2. Navigate: `cd project-folder`
 3. Follow project-specific READMEs.
 
+## Website
+[WEBSITE](https://joelloter.free.nf/)
+
 ## Contact
-- Email: [your.email@example.com]  
-- LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- Email: [joelluke100@gmail.com]  
+- LinkedIn: (https://www.linkedin.com/in/emmanuel-loter-joel-b62172365/)
